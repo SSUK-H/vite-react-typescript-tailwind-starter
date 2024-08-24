@@ -12,7 +12,7 @@
 현재 레포지토리를 복제하고 모든 종속성을 설치해주세요.
 
 ```
-git clone https://github.com/SSUK-H/vite-react-typescript-tailwind-starter.git
+git clone https://github.com/SSUK-H/vite-react-typescript-tailwind-starter.git .
 
 npm install
 ```
